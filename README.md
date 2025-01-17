@@ -2,6 +2,10 @@
 
 POC (Proof of Concept) d'un radar d'aéroport développé avec React, TypeScript, et Pixi.js. Ce projet est une démonstration technique des capacités de Pixi.js intégré dans React pour simuler un affichage radar.
 
+## 🎥 Démonstration
+
+![Démonstration du radar](demo.gif)
+
 ## 🚀 Démarrage
 
 ```bash
