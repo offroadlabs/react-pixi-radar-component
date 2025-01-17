@@ -1,0 +1,62 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+bun.lockb
+
+# Testing
+coverage
+.nyc_output
+
+# Production
+build
+dist
+storybook-static
+
+# Development
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE - VSCode
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Cursor
+.cursor
+.cursor.json
+.cursorrules
+.cursor.json.*
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Misc
+*.log
+*.local
+.cache
+.temp
+.eslintcache
+.stylelintcache
+tsconfig.tsbuildinfo
